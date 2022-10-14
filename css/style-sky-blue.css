@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #48abec;
+  color: hsl(26, 91%, 53%);
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,7 +39,7 @@ a:hover {
 }
 
 .color-a {
-  color: #48abec;
+  color: #ecb848;
 }
 
 .color-d {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #48abec;
+  background-color: #ff5703;
 }
 
 .overlay-mf {
@@ -160,7 +160,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #48abec;
+  background-color: #fc6704;
   margin: 0 auto;
 }
 
@@ -179,7 +179,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #48abec;
+  background-color: #ff7300;
   width: 100px;
   bottom: -12px;
 }
@@ -221,7 +221,7 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #48abec;
+  background-color: #fb7100;
   color: #fff;
   box-shadow: 0 0 0 3px #d7ebf8;
   transition: all 500ms ease;
